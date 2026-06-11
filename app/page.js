@@ -116,7 +116,7 @@ export default function Home() {
         <div className="info-strip-title">📌 Informasi Penting</div>
         <ul className="info-list">
           <li>Data desil digunakan untuk penentuan bantuan sosial</li>
-          <li>Foto rumah harus jelas — tampak depan &amp; belakang</li>
+          <li>Foto rumah harus jelas — tampak depan &amp; Dalam Rumah</li>
           <li>Operator memproses data dalam <strong>1–3 hari kerja</strong></li>
           <li>Pertanyaan? Hubungi kantor desa</li>
         </ul>
